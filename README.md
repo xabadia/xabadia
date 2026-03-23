@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @xabadia
 - 👀 I’m interested in psychology and languages (natural, constructed, pictorial, programming).
-- 🌱 I’m currently learning JavaScript/HTML/CSS at the Khan Academy.
 - 📫 How to reach me: xabadiar@hotmail.com
 
 <!---
